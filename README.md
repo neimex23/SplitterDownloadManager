@@ -1,0 +1,2 @@
+# SplitterDownloadManager
+SplitterDownloadManager For HCM/AutoSplitterCore
