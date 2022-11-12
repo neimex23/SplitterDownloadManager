@@ -4,7 +4,7 @@ using Avalonia.Markup.Xaml;
 using SplitterDownloadManager.ViewModels;
 using SplitterDownloadManager.Views;
 
-namespace SplitterDownloadManager.Sources
+namespace SplitterDownloadManager
 {
     public partial class App : Application
     {
